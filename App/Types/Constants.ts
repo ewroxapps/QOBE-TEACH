@@ -1,0 +1,20 @@
+export const UNI_CLASS_ROOM = 140;
+export const CLASS_ACTIVITY = 135;
+export const CLASS_ACTIVITY_STUDENT = 136;
+export const UNI_CLASS_STUDENT = 141;
+export const STUDENT_ATTENDANCE = 209;
+export const SURVEY_DESIGN = 164;
+export const CLASS_ASSISTANT = 168;
+export const CLASS_PLAN = 193;
+export const COMPLAINT = 273
+export const CLASSROOM_OUTLINE = 264;
+
+export const VIEW='View'
+export const CREATE='Create'
+export const UPDATE='Update'
+export const DELETE='Delete'
+export const LIST='List'
+export const CLO='CLOs'
+export const PLO='PLOs'
+export const CLASSTIMETABLE='Time Table'
+export const VIDEOMATERIAL='Video Material'
